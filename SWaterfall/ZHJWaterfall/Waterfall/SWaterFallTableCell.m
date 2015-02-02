@@ -13,7 +13,7 @@
 #import "UIView+SAdditions.h"
 
 @interface SWaterFallTableCell()
-- (void)onViewTapped;
+
 @end
 
 @implementation SWaterFallTableCell

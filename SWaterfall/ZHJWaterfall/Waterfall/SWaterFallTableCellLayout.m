@@ -12,16 +12,6 @@
 #import "SWaterFallTableCellLayout.h"
 
 @implementation SWaterFallTableCellLayout
-@synthesize column = _column;
-@synthesize x = _x;
-@synthesize y = _y;
-@synthesize width = _width;
-@synthesize height = _height;
-@synthesize cellIndex = _cellIndex;
-@synthesize frame = _frame;
-@synthesize cell = _cell;
-
-@synthesize hasDrawnInTableView = _hasDrawnInTableView;
 
 - (void) setFrame:(CGRect)frame
 {
